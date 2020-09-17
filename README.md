@@ -22,5 +22,5 @@ These networks are mindfully designed to have less parameters for better perform
 ## With first Modification
 ![m2](https://github.com/Mahesh1735/Backbone-for-better-localization/blob/master/Media/mod_par.png)
 
-## With second Modification
+## With first and second Modifications
 ![m3](https://github.com/Mahesh1735/Backbone-for-better-localization/blob/master/Media/mod_net_final.png)
