@@ -1,4 +1,6 @@
 # Backbone-for-better-localization
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 An attempt to develop a better backbone for object localization.
 
 Traditionally convolutional neural networks backbones developed for the classification task are widely used for all the computer vision-related tasks. As these networks are intended to classifiers, they may lack architecturally features that are important for other tasks like localization.
